@@ -1,1 +1,1 @@
-# cv
+# This repository hosts my personal portfolio website, showcasing my professional experience, skills, projects, and academic background. The site is designed to provide a comprehensive overview of my qualifications as a computer science professional.
